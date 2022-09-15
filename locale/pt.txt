@@ -1,0 +1,107 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_255068D4_3C32_DC17_41C6_BFFA34B5AC91.source = https://api.whatsapp.com/send/?phone=5547992165510
+LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = https://api.whatsapp.com/send/?phone=5547992165510
+LinkBehaviour_291252B9_3C32_CC11_41C1_FAE08484C877.source = https://api.whatsapp.com/send/?phone=5547992165510
+LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = https://api.whatsapp.com/send/?phone=5547992165510
+LinkBehaviour_29225FC2_3C32_5472_41C9_DBCC97E9DAC6.source = https://catarinenseimplantes.com.br/unidade/joinville-iririu/
+LinkBehaviour_2552E8D3_3C32_DC11_41B6_221D86C1F04B.source = https://catarinenseimplantes.com.br/unidade/joinville-iririu/
+LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = https://search.google.com/local/writereview?placeid=ChIJ2YtdgCiu3pQRU2sNHEyaa0g
+LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = https://search.google.com/local/writereview?placeid=ChIJ2YtdgCiu3pQRU2sNHEyaa0g
+LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/iririucatarinenseimplantes
+LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/iririucatarinenseimplantes
+LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/Catarinense+Implantes/@-26.2727952,-48.8320007,17z/data=!3m1!4b1!4m5!3m4!1s0x94deae28805d8bd9:0x486b9a4c1c0d6b53!8m2!3d-26.272816!4d-48.8297997
+LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Catarinense+Implantes/@-26.2727952,-48.8320007,17z/data=!3m1!4b1!4m5!3m4!1s0x94deae28805d8bd9:0x486b9a4c1c0d6b53!8m2!3d-26.272816!4d-48.8297997
+LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/catarinenseimplantesiririu/
+LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/catarinenseimplantesiririu/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_68EC39D6_4452_5C12_4187_ACA0B07EC5C0.text = R. Iririú, 1647
+
+## Media
+
+### Audio
+audio_6AF45F3A_4475_F413_41CF_7B71DB9E4AA0.path = null
+audio_278A3987_3C75_FCF2_41CC_A4890571A4E8.path = null
+audio_279FB107_3C76_CDF1_41C8_AD3A7ED3008B.path = null
+audiores_2016643F_3C4D_D412_41A0_83F9CF25FC58.mp3Url = media/audio_278A3987_3C75_FCF2_41CC_A4890571A4E8_pt.mp3
+audiores_2016643F_3C4D_D412_41A0_83F9CF25FC58.oggUrl = media/audio_278A3987_3C75_FCF2_41CC_A4890571A4E8_pt.ogg
+audiores_21A269FB_3C4D_FC12_41BF_1EA5EA1FC0E4.mp3Url = media/audio_279FB107_3C76_CDF1_41C8_AD3A7ED3008B_pt.mp3
+audiores_21A269FB_3C4D_FC12_41BF_1EA5EA1FC0E4.oggUrl = media/audio_279FB107_3C76_CDF1_41C8_AD3A7ED3008B_pt.ogg
+audiores_6A813715_444E_3416_41AB_9E2D2BA6ED6D.mp3Url = media/audio_6AF45F3A_4475_F413_41CF_7B71DB9E4AA0_pt.mp3
+audiores_6A813715_444E_3416_41AB_9E2D2BA6ED6D.oggUrl = media/audio_6AF45F3A_4475_F413_41CF_7B71DB9E4AA0_pt.ogg
+
+### Image
+imlevel_69FF77A7_444E_7432_41BA_74D21EACFE2B.url = media/panorama_668D998A_44D6_DCF2_41BC_E88C2C4851ED_HS_8440320z_pt.png
+
+### Title
+panorama_686FAB46_4432_3C72_41CF_401D1A57137D.label = 1-DeNoiseAI-standard final
+panorama_668D6CF4_44D6_5416_41C2_8F8D507164CC.label = 10-DeNoiseAI-standard
+panorama_668CA596_44D6_3412_41A8_0464F04BA29C.label = 11-DeNoiseAI-standard
+panorama_668D7DFC_44D6_3416_41C1_576C951359CC.label = 12-DeNoiseAI-standard
+panorama_668C6694_44D6_D416_41C5_DBC4D2BCAAF4.label = 13-DeNoiseAI-standard
+panorama_668D9F04_44D6_D5F6_41CD_D5D08E232CF5.label = 14-DeNoiseAI-standard
+panorama_668C67B0_44D6_F42E_41C7_AFBFD1B39FC9.label = 15-DeNoiseAI-standard
+panorama_6AB48583_4456_54F2_41B2_141FAAF35A4F.label = 15-DeNoiseAI-standard final 2
+panorama_668D9070_44D6_CC2F_417E_96A834D8A54A.label = 16-DeNoiseAI-standard
+panorama_668C091A_44D5_DC13_41A9_23DC49B80D90.label = 2-DeNoiseAI-standard
+panorama_6683C1C6_44D5_CC73_41C4_8F3EEA6C7162.label = 3-DeNoiseAI-standard
+panorama_668CEA18_44D6_3C1E_41BF_7E818B18F200.label = 4-DeNoiseAI-standard
+panorama_668CE2B0_44D6_4C2E_41CC_4CB116CA59DE.label = 5-DeNoiseAI-standard
+panorama_668CAB02_44D6_5DF2_41B8_6F30C91A2C56.label = 6-DeNoiseAI-standard
+panorama_668C93AE_44D6_4C33_419E_3DF41A1D2385.label = 7.1-DeNoiseAI-standard
+panorama_668CABF6_44D6_7C13_4195_FBEBD023AECE.label = 8-DeNoiseAI-standard
+panorama_668CB452_44D6_5413_41CA_E61C70F03C65.label = 9-DeNoiseAI-standard
+panorama_668D998A_44D6_DCF2_41BC_E88C2C4851ED.label = céu preenchido-DeNoiseAI-standard
+
+## Skin
+
+### Button
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28.label = AGENDAMENTO
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28_mobile.label = AGENDAMENTO
+
+### Image
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC_mobile.path = null
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.path = null
+Image_2F6CD51A_3C32_3413_41C2_F2CA015CF404_mobile.path = null
+Image_2F6CD51A_3C32_3413_41C2_F2CA015CF404.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.path = null
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC_mobile.url = skin/Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC_mobile_pt.png
+Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC.url = skin/Image_2E93EAA6_3C57_DC32_41CB_3D0DA0D8B4CC_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_pt.png
+Image_2F6CD51A_3C32_3413_41C2_F2CA015CF404_mobile.url = skin/Image_2F6CD51A_3C32_3413_41C2_F2CA015CF404_mobile_pt.png
+Image_2F6CD51A_3C32_3413_41C2_F2CA015CF404.url = skin/Image_2F6CD51A_3C32_3413_41C2_F2CA015CF404_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_pt.png
+
+### Tooltip
+IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Faça um Tour Virtual em Nossa Unidade
+
+### Title
+tour.name = Catarinense Implantes Iririú
